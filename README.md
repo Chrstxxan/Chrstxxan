@@ -97,9 +97,9 @@ I'm particularly interested in **backend development, APIs, databases, automatio
 
 <p align="left">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chrstxxan&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-ten-pearl-12.vercel.app/api?username=Chrstxxan&show_icons=true&theme=tokyonight&count_private=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrstxxan&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-ten-pearl-12.vercel.app/api/top-langs/?username=Chrstxxan&layout=compact&theme=tokyonight&count_private=true" />
 
 </p>
 
